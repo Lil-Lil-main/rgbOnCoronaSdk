@@ -1,6 +1,5 @@
 require "rgb"
 
-local rgbOn = true
 local background = display.newRect(160, 250, 720, 1080)
         
 function start()
